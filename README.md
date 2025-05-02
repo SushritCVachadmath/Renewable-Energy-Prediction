@@ -1,0 +1,1 @@
+This project predicts wind and solar energy generation using weather data and machine learning. It employs classical models and deep learning (CNN-LSTM, DRNN), identifying key weather features. DRNN excelled in wind prediction, while histogram-based gradient boosting performed best for solar, aiding renewable energy forecasting and grid stability.
